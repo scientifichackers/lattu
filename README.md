@@ -1,9 +1,13 @@
 # lattu
-straightforward way to control BLE controlled smart bulbs
+Straightforward way to control BLE controlled smart bulbs.
 
 # Supported bulbs
 I only have Iota light bulb with me so that's the only one supported for now.
 It's really easy to add support for your bulbs if you know the GAT commands, have a look at lattu.py
+
+# Installation
+pip install lattu
+
 # Example 
 
 ``` Python
@@ -27,3 +31,5 @@ time.sleep(0.5)
 
 my_bulb.color('ffffff', 50) # color support brightness
 ```
+# Thanks
+thanks to https://github.com/arijitdasgupta for previews work.
