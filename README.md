@@ -32,4 +32,4 @@ time.sleep(0.5)
 my_bulb.color('ffffff', 50) # color support brightness
 ```
 # Thanks
-thanks to https://github.com/arijitdasgupta for previews work.
+thanks to https://github.com/arijitdasgupta for previous work.
