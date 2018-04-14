@@ -6,7 +6,7 @@ I only have Iota light bulb with me so that's the only one supported for now.
 It's really easy to add support for your bulbs if you know the GAT commands, have a look at lattu.py
 # Example 
 
-~
+```
 from lattu import IotaBulb
 import time
 
@@ -26,4 +26,4 @@ my_bulb.color('ffffff')
 time.sleep(0.5)
 
 my_bulb.color('ffffff', 50) # color support brightness
-~
+```
