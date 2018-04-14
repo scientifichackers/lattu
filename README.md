@@ -6,7 +6,7 @@ I only have Iota light bulb with me so that's the only one supported for now.
 It's really easy to add support for your bulbs if you know the GAT commands, have a look at lattu.py
 # Example 
 
-```
+``` Python
 from lattu import IotaBulb
 import time
 
